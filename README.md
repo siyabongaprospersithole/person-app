@@ -10,7 +10,7 @@
 - Vue Tags Input for managing interests
 - Vue Sweetalert2 for displaying alerts
 
-### Backend - Laravel Sanctum
+### Backend - Laravel 9 with Sanctum
 
 - Laravel Sanctum for API authentication
 - Laravel Eloquent for database interaction
